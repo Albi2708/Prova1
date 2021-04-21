@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Prova per git\n";
     std::cout << "Prova per git\n";
+    std::cout << "Prova per git\n";
 
     return 0;
 }
